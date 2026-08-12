@@ -5,16 +5,16 @@ Building scalable web applications, dynamic CMS migrations, and automated scrapi
 
 ---
 
-### 👤 Who Am I?
-- 💻 Professional **Software Engineer** based in Baku, Azerbaijan.
-- 🚀 Passionate about clean code, relational database architecture, and process automation.
+###  Who Am I?
+-  Professional **Software Engineer** based in Baku, Azerbaijan.
+-  Passionate about clean code, relational database architecture, and process automation.
 
 ---
 
 ### 🔭 Currently Working On
-- ⚡ **Full-Stack Projects:** Modernizing web applications and payment gateway integrations.
-- 🔄 **Automation & Scraping:** Developing dynamic CMS migration pipelines using Python and BeautifulSoup.
-- 🛠 **System Optimization:** Tailoring lightweight, minimalist Linux and Windows development environments.
+- **Full-Stack Projects:** Modernizing web applications and payment gateway integrations.
+- **Automation & Scraping:** Developing dynamic CMS migration pipelines using Python and BeautifulSoup.
+- **System Optimization:** Tailoring lightweight, minimalist Linux and Windows development environments.
 
 ---
 
@@ -30,6 +30,6 @@ Building scalable web applications, dynamic CMS migrations, and automated scrapi
 
 ---
 
-### 📬 How To Reach Me
-- 📧 **Email:** [ismayilzada.dev@gmail.com](mailto:ismayilzada.dev@gmail.com)
-- 🌐 **GitHub:** [@elgkndev](https://github.com/elgkndev)
+###  How To Reach Me
+-  **Email:** [ismayilzada.dev@gmail.com](mailto:ismayilzada.dev@gmail.com)
+-  **GitHub:** [@elgkndev](https://github.com/elgkndev)
