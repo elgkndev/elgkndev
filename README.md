@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Elgün İsmayılzadə!
+# Hi, I'm Elgün İsmayılzadə 👋
 
-💻 **Software Engineer & Web Developer**  
-Passionate about building efficient web applications, automated scraping pipelines, and clean database structures.
+**Software Engineer & Web Developer**  
+Passionate about building scalable web applications, automated scraping pipelines, and clean database architectures.
 
 ---
 
-### 🚀 About Me
+### 🔹 About Me
+- 💼 **Focus:** Full-Stack Web Development & Process Automation
 - 🛠 **Core Stack:** PHP, MySQL, Python, JavaScript
-- ⚙️ **Focus Areas:** Web Automation, Web Scraping, CMS & Full-Stack Development
 - 📍 **Location:** Baku, Azerbaijan
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,8 +24,8 @@ Passionate about building efficient web applications, automated scraping pipelin
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elgkndev&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgkndev&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elgkndev&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgkndev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
 </p>
