@@ -26,6 +26,5 @@ Passionate about building scalable web applications, automated scraping pipeline
 
 ### 📈 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elgkndev&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgkndev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elgkndev&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
